@@ -2,8 +2,10 @@
 Lua binding for zlog.
 
 ## Installation
-Download and install zlog from: https://github.com/HardySimpson/zlog.
-Update the Makefile if needed to point at the correct include/lib paths.
+* Download and install zlog from: https://github.com/HardySimpson/zlog.
+* Update the Makefile if needed to point at the correct include/lib paths.
+* Run make (will produce `zlog.so`)
+
 
 ## Example
 ```lua
